@@ -13,3 +13,14 @@ git push -u origin main
 git remote add origin https://github.com/SamiraJahan2050/alpha-clash-pro.git
 git branch -M main
 git push -u origin main
+
+
+
+
+----------
+
+git add .
+
+git commit -m " Meaningful Message "
+
+git push -u origin main
